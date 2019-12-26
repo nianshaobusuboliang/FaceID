@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../008/.idea/008.iml" filepath="$PROJECT_DIR$/../008/.idea/008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Easiest-realization-CRNN-for-Chinese-master/.idea/Easiest-realization-CRNN-for-Chinese-master.iml" filepath="$PROJECT_DIR$/../Easiest-realization-CRNN-for-Chinese-master/.idea/Easiest-realization-CRNN-for-Chinese-master.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/demo0418/.idea/demo0418.iml" filepath="$USER_HOME$/PycharmProjects/demo0418/.idea/demo0418.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/face.iml" filepath="$PROJECT_DIR$/.idea/face.iml" />
+    </modules>
+  </component>
+</project>
